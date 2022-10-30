@@ -1,8 +1,4 @@
 # [MCTE 4342] Embedded System Design
-
-|  No.   | Title | Description |
-| :----: | :---- | :---------- |
-| Week 4 | GPIO  |             |
 This repository contains the source code for the course MCTE 4342 Embedded System Design at IIUM.
 
 <!-- The course is taught by Dr. Zulkifli Bin Zainal Abidin -->
