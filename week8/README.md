@@ -6,6 +6,17 @@ For example, in the Arduino programming language, the EEPROM library provides fu
 
 It's worth noting that EEPROM memory has a limited number of write cycles, so it's important to use it carefully and minimize the number of writes to the memory if possible.
 
+there are however things to note like how both the EEPROM.put() and EEPROM.write() functions are used to write values to the EEPROM memory but they differ in terms of the data types that they can write to the EEPROM memory.
+
+The EEPROM.write() function can only write values of the byte, char, int and long data types to the EEPROM memory.
+
+On the other hand, the EEPROM.put() function can write values of any data type to the EEPROM memory. This includes not only the data types supported by EEPROM.write(), but also data types such as float, double, and bool.
+
 https://user-images.githubusercontent.com/84280005/210071138-cb58b722-cf40-415f-810f-174650ae300c.mp4
 
 In this example,the Arduino remember the stored LED state, even when we reset the Arduino or the power goes off.
+
+
+
+
+
