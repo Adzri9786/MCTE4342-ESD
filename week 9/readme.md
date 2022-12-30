@@ -12,5 +12,5 @@ There are several ways to save power on an Arduino board, depending on your spec
 
 It's worth noting that the specific power-saving techniques that are most effective for your project will depend on your specific hardware and software setup, as well as the requirements of your project.
 
-here's using low pwoer library
-https://user-images.githubusercontent.com/84280005/210074651-540b628b-edf6-4a60-b56e-481e80087cd5.mp4
+here's using low power library
+https://user-images.githubusercontent.com/84280005/210074921-7c5cc509-e3e3-4346-b588-e14e0316a91f.mp4
