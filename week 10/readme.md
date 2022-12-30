@@ -8,7 +8,7 @@ DC motors are classified based on the type of current they use and the type of m
 
 DC motors can be controlled using a variety of techniques, including pulse width modulation (PWM), voltage control, and current control. To control a DC motor with an Arduino, you will need a DC motor driver (such as the L293D or TB6612FNG) to convert the control signals from the Arduino into the high current and voltage signals required by the DC motor.
 
-![Screenshot_20221230_110631](https://user-images.githubusercontent.com/84280005/210084655-de26d1c5-ba61-4e79-95ee-5a9d1384448d.png)
+![Screenshot_20221230_111328](https://user-images.githubusercontent.com/84280005/210085277-8a70e599-b36e-49b4-b1e6-69c6ebf11402.png)
 
 as i do not have the required component (dc motor driver) at the moment i could only show an image of the circuit
 
